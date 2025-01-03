@@ -1,0 +1,21 @@
+flask
+ipykernel
+python-box
+
+# Core Libraries
+numpy
+pandas
+scikit-learn
+
+mlflow
+
+# Experiment Tracking
+matplotlib
+seaborn
+
+gunicorn
+
+# Data Version Control
+dvc[s3]
+
+-e .
