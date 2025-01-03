@@ -1,1 +1,1 @@
-# end_end_house_price_prediction
+# end_end_tips_prediction
